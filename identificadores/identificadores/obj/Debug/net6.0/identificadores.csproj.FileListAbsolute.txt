@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\bin\Debug\net6.0\identificadores.exe
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\bin\Debug\net6.0\identificadores.deps.json
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\bin\Debug\net6.0\identificadores.runtimeconfig.json
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\bin\Debug\net6.0\identificadores.dll
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\bin\Debug\net6.0\identificadores.pdb
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.AssemblyInfo.cs
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.dll
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\refint\identificadores.dll
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.pdb
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\identificadores.genruntimeconfig.cache
+C:\Users\felip\source\repos\Curso-virtual\identificadores\identificadores\obj\Debug\net6.0\ref\identificadores.dll
